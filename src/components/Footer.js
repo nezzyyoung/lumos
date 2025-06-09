@@ -36,8 +36,8 @@ export default function Footer() {
           <h3 className="text-white text-lg font-semibold mb-4">Contact</h3>
           <p>Support: <a href="mailto:support@lumos.com" className="hover:underline">support@lumos.com</a></p>
           <p>Business: <a href="mailto:business@lumos.com" className="hover:underline">business@lumos.com</a></p>
-          <p>Phone: (123) 456-7890</p>
-          <p>Address: 123 Lumos St, City, Country</p>
+          <p>Phone: +257696969</p>
+          <p>Address:  Bujumbura, Burundi</p>
         </div>
 
         {/* Social Media & Newsletter */}
