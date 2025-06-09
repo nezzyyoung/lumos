@@ -32,19 +32,19 @@ export default function NavBar() {
               Login
             </Link>
             <Link
-              href="#resources"
+              href="/resources"
               className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium"
             >
               Resources
             </Link>
             <Link
-              href="#community"
+              href="/community"
               className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium"
             >
               Community
             </Link>
             <Link
-              href="#contact"
+              href="/contact"
               className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium"
             >
               Contact
