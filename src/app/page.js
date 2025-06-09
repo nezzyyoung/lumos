@@ -5,6 +5,7 @@ import ResourcesPreview from "../components/ResourcesPreview";
 import CommunityPreview from "../components/CommunityPreview";
 import ContactSupport from "../components/ContactSupport";
 
+
 export default function Home() {
   return (
     <>
@@ -14,6 +15,7 @@ export default function Home() {
       <ResourcesPreview />
       <CommunityPreview />
       <ContactSupport />
+      
     </>
   );
 }
